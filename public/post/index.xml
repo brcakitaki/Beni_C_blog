@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Hugo website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Australian performance funding, a technical note of the technical note</title>
+      <link>/2020/02/10/australian-performance-funding-the-technical-details-of-the-technical-details/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/10/australian-performance-funding-the-technical-details-of-the-technical-details/</guid>
+      <description>Last week the Australian Department of Education, Skills and Employment (DESE) released a technical note on the performance based funding scheme.</description>
+    </item>
+    
+    <item>
+      <title>How would rankings from an Australian PBF compare to other conventional rankings?</title>
+      <link>/2020/02/06/how-would-rankings-from-an-australian-pbf-compare-to-other-conventional-rankings/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/06/how-would-rankings-from-an-australian-pbf-compare-to-other-conventional-rankings/</guid>
+      <description>Australian performance based fundingIn a report last year on performance based funding alongside my co-authors Andrew Harvey and Matt Brett, we raised the point that the TEF in the UK could disrupt conventional higher education rankings such as the THE or QS.
+In part this depends on how salient the ranking is on those that make decisions that could be considered competitive, ie potential students. Holding that constant, we found the TEF at the very least did nominally dislodge some of the prevailing hierarchies.</description>
+    </item>
+    
+    <item>
+      <title>Reflections on the role of data science in the Australian university</title>
+      <link>/2020/02/06/reflections-on-role-of-data-science-in-the-australian-university/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/06/reflections-on-role-of-data-science-in-the-australian-university/</guid>
+      <description>Australian universities are some of the largest in the world if measured by student numbers. We have 39 universities, the average size of which is over 35 thousand students. At the university I work at we have over 38,000 students, undertaking close to 400 courses, and over 3000 unique subjects. The university gathers data on student enrolments, learning management system (LMS) activity, class scheduling data, and the data gathered from the array of Quality Indicators of Learning and Teaching (QILT) surveys.</description>
+    </item>
+    
+  </channel>
+</rss>

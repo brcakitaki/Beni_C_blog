@@ -1,0 +1,15 @@
+---
+title: "Reflections on the role of data science in the Australian university"
+date: '2020-02-06'
+slug: reflections-on-role-of-data-science-in-the-australian-university
+tags: []
+categories: []
+---
+
+Australian universities are some of the largest in the world if measured by student numbers. We have 39 universities, the average size of which is over 35 thousand students. At the university I work at we have over 38,000 students, undertaking close to 400 courses, and over 3000 unique subjects. The university gathers data on student enrolments, learning management system (LMS) activity, class scheduling data, and the data gathered from the array of Quality Indicators of Learning and Teaching (QILT) surveys.   
+
+Good institutional data capabilities and practices are an important part of decision making infrastructure for large complex organisations. Basic data driven processes are important the every day running of a university. Good administrative data processes make sure applications go to the right place, that students are enrolled in the correct subjects, and that resources are being directed towards those areas of the university that student load is required. 
+
+Yet Australian universities appear to be well behind the frontier on data driven decision making. Poor understanding of institutional data by university managers. 
+
+
